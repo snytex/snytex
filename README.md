@@ -22,12 +22,10 @@
 
 <p>Check out my repos, and if you're into the same stuff maybe we could connect.</p>
 
-<!-- Profile views counter -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=snytex&label=Profile%20views&color=blue&style=flat" alt="Snytex Profile Views" />
 </p>
 
-<!-- Language icons -->
 <h3>Languages I Use:</h3>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
