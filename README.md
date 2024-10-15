@@ -20,7 +20,7 @@
 
 <p><strong>Fun fact:</strong> I use Arch btw.</p>
 
-<p>Check out my repos, and if you're into the same stuff, let's connect!</p>
+<p>Check out my repos, and if you're into the same stuff maybe we could connect</p>
 
 <!-- Language icons -->
 <h3>Languages I Use:</h3>
