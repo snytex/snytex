@@ -5,8 +5,8 @@
   <li>I mainly code in <strong>Python</strong> and <strong>C#</strong>.</li>
   <li>Currently learning <strong>C++</strong> and messing around with a few projects to get the hang of it.</li>
   <li>Always down to talk code or work on something cool.</li>
-  <li>I use Arch btw.</li>
   <li>The IDE I use: http://www.lazyvim.org/</li>
+  <li>I use Arch btw.</li>
 </ul>
 
 <h3>What I’m Up To:</h3>
