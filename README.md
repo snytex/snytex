@@ -2,7 +2,7 @@
 
 <h3>About Me</h3>
 <ul>
-  <li>I code in <strong>Python</strong> and <strong>C#</strong>.</li>
+  <li>I mainly code in <strong>Python</strong> and <strong>C#</strong>.</li>
   <li>Currently learning <strong>C++</strong> and messing around with a few projects to get the hang of it.</li>
   <li>Always down to talk code or work on something cool.</li>
   <li>I use Arch btw.</li>
