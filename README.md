@@ -19,7 +19,7 @@
   <img src="https://komarev.com/ghpvc/?username=snytex&label=Profile%20views&color=blue&style=flat" alt="Snytex Profile Views" />
 </p>
 
-<h3>Languages I mainly Use:</h3>
+<h3>Languages I Use:</h3>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
