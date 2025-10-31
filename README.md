@@ -4,7 +4,7 @@
 <ul>
   <li>I mainly code in <strong>Python</strong> and <strong>C++</strong>.</li>
   <li>Always down to talk code or work on something cool.</li>
-  <li>The IDE I use: http://www.lazyvim.org/</li>
+  <li>The IDE I use: https://neovim.io/</li>
   <li>I use Arch btw.</li>
 </ul>
 
