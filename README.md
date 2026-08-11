@@ -2,7 +2,7 @@
 
 <h3>About Me</h3>
 <ul>
-  <li>I mainly code in <strong>Python</strong> and <strong>C++</strong>.</li>
+  <li>I mainly code in <strong>C++</strong> and <strong>C</strong>.</li>
   <li>Always down to talk code or work on something cool.</li>
   <li>The IDE I use: https://neovim.io/</li>
   <li>I use Arch btw.</li>
