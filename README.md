@@ -1,1 +1,1 @@
-![](./snytex.svg)
+![](./snytex_img.svg)
