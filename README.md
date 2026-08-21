@@ -5,7 +5,7 @@
   <li>I mainly code in <strong>C++</strong> and <strong>C</strong>.</li>
   <li>Always down to talk code or work on something cool.</li>
   <li>The IDE I use: https://neovim.io/</li>
-  <li>I use Arch btw.</li>
+  <li>Currently developing Vaeron Engine</li>
 </ul>
 
 <h3>Hit Me Up:</h3>
