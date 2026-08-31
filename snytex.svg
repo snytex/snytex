@@ -19,7 +19,7 @@
   <text x="24" y="46" class="dim" font-size="14">─────────────────────────────────────────────</text>
 
   <text x="24" y="70" class="purple bold" font-size="13">os</text>
-  <text x="100" y="70" class="white" font-size="13">nixos</text>
+  <text x="100" y="70" class="white" font-size="13">arch linux</text>
 
   <text x="24" y="92" class="purple bold" font-size="13">editor</text>
   <text x="100" y="92" class="white" font-size="13">neovim</text>
@@ -31,7 +31,7 @@
   <text x="100" y="136" class="white" font-size="13">c  ·  c++  ·  python</text>
 
   <text x="24" y="158" class="purple bold" font-size="13">tools</text>
-  <text x="100" y="158" class="white" font-size="13">vulkan  ·  g++  ·  docker</text>
+  <text x="100" y="158" class="white" font-size="13">vulkan  ·  gcc  ·  docker</text>
 
   <text x="24" y="178" class="dim" font-size="14">─────────────────────────────────────────────</text>
 
