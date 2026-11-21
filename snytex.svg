@@ -28,15 +28,15 @@
   <text x="100" y="114" class="white" font-size="13">zsh</text>
 
   <text x="24" y="136" class="purple bold" font-size="13">langs</text>
-  <text x="100" y="136" class="white" font-size="13">c(++)  ·  rust  ·  python</text>
+  <text x="100" y="136" class="white" font-size="13">c(++)  |  rust  |  python</text>
 
   <text x="24" y="158" class="purple bold" font-size="13">tools</text>
-  <text x="100" y="158" class="white" font-size="13">vulkan  ·  gcc  ·  docker</text>
+  <text x="100" y="158" class="white" font-size="13">vulkan  |  gcc  |  docker</text>
 
   <text x="24" y="178" class="dim" font-size="14">─────────────────────────────────────────────</text>
 
   <text x="24" y="202" font-size="13"><tspan class="yellow bold">vaeron</tspan><tspan x="100" class="white">C++ game engine on Vulkan</tspan><tspan class="dim"> [WIP]</tspan></text>
-  <text x="24" y="224" font-size="13"><tspan class="yellow bold">geode</tspan><tspan x="100" class="white">AutoDeafen-Linux · Geometry Dash</tspan></text>
+  <text x="24" y="224" font-size="13"><tspan class="yellow bold">geode</tspan><tspan x="100" class="white">AutoDeafen-Linux | Geometry Dash</tspan></text>
   <text x="24" y="246" font-size="13"><tspan class="yellow bold">dots</tspan><tspan x="100" class="white">snytex/nvim-config-files</tspan></text>
 
   <text x="24" y="266" class="dim" font-size="14">─────────────────────────────────────────────</text>
